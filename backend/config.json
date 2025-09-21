@@ -1,14 +1,6 @@
 [
   {
-    "username": "reva",
-    "password": "revasa"
-  },
-  {
-    "username": "arga",
-    "password": "argananda"
-  },
-  {
-    "username": "nizam",
-    "password": "nizamhf"
+    "username": "admin",
+    "password": "user"
   }
 ]
